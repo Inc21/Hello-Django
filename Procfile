@@ -1,0 +1,1 @@
+web: guncorn django_todo.wsgi:application
