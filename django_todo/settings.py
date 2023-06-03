@@ -31,7 +31,8 @@ DEBUG = config('DEBUG', default=False, cast=bool)
 
 ALLOWED_HOSTS = [
     'localhost',
-    '127.0.0.1'
+    '127.0.0.1',
+    'inc21-django-todo-app.herokuapp.com'
 ]
 
 
